@@ -3,7 +3,7 @@ package utils;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class WebDriverManager {
+public class WebDriverManager { 
 	private static WebDriver driver;
 	
 	private WebDriverManager() {}
